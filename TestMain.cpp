@@ -15,7 +15,7 @@
 using namespace std;
 int RESIDENT_SET_SIZE;
 //int NUMBER_OF_PAGES;
-int const BREAK_POINT = 20;
+int const BREAK_POINT = 40;
 
 int LRU(int arr[]){
 		list<int> residentSet;
